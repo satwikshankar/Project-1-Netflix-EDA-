@@ -1,5 +1,4 @@
-# Project 1
-# Netflix EDA
+# Project 1 - Netflix EDA
 
 Data visualization in R for Netflix Database 2019
 
